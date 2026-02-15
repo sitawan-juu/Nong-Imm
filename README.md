@@ -11,7 +11,7 @@ The world's most intelligent multilingual food location scout. Powered by a priv
 This repository contains the **Client-Side SDK** only. The core AI Logic and Prompt Engineering are hosted on our secure private servers to ensure high quality and prevent unauthorized duplication.
 
 **Interested in using our API for your business?**
-- 📧 Contact: [your-email@example.com]
+- 📧 Contact: [sitawan.j@ku.th]
 - 🌐 Website: [your-landing-page.com]
 - 💳 Pricing: Pay-per-use or Monthly Subscription available.
 
